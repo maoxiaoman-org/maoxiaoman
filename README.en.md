@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/maoxiaoman-cover.svg" alt="Maoxiaoman — trade quotation and document workspace" width="960"></p>
+<p align="center"><a href="https://www.maoxiaoman.cn"><img src="assets/maoxiaoman-cover.svg" alt="Maoxiaoman — trade quotation and document workspace" width="960"></a></p>
 
 # Mao Xiao Man (贸小满)
 
