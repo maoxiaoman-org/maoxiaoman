@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/maoxiaoman-cover.svg" alt="Maoxiaoman — trade quotation and document workspace" width="960"></p>
+
 # Mao Xiao Man (贸小满)
 
 **A quotation and trade-document workspace for export sales teams.**

@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/maoxiaoman-cover.svg" alt="贸小满 — 外贸报价与单据工作台" width="960"></p>
+
 # 贸小满
 
 **给外贸业务员的报价与单据工作台。**
