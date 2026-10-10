@@ -1,0 +1,15 @@
+name: 使用咨询 / Question
+description: 询问贸小满的使用方式
+title: "[咨询] "
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: 这是公开讨论区。请勿提交真实客户、单据、银行资料或账号凭据。
+  - type: textarea
+    id: question
+    attributes:
+      label: 你的问题
+      description: 请说明使用场景和想完成的操作。
+    validations:
+      required: true

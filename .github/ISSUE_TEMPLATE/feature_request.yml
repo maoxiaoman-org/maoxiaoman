@@ -1,0 +1,21 @@
+name: 功能建议 / Feature request
+description: 提出希望改进或新增的功能
+title: "[建议] "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: 请勿在公开 Issue 中填写真实客户或交易资料。
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 目前在哪一步遇到困难？
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 希望如何改进
+    validations:
+      required: true
